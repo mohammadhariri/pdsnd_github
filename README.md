@@ -13,5 +13,5 @@ This project analyses bike share data for Chicago, DC and New York city
 bikeshare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+
 Me, Myself and I get all the credits
